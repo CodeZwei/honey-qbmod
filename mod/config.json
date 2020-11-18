@@ -1,0 +1,16 @@
+{
+  "id": "honey",
+  "name": "Honey",
+  "author": {
+    "name": "CodeZwei",
+    "url": "https://github.com/CodeZwei"
+  },
+  "type": "community",
+  "short_description": "Adds more oral to the mix!",
+  "long_description": "<h3>What does this mod include?</h3> <p>This mod makes adds more quests and dialog related to Oral Sex.</p>",
+  "version": "0.1.0",
+  "api": "1",
+  "dependencies": [],
+  "script": "mod.js",
+  "thumbnails": []
+}
