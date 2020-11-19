@@ -1,0 +1,17 @@
+{
+    "template": "https://github.com/CodeZwei/cruft-qbmod",
+    "commit": "2d7ef71c47717853f4e3ff347114ce9e59b950c6",
+    "context": {
+        "cookiecutter": {
+            "mod_name": "Honey",
+            "mod_id": "honey",
+            "repo_name": "honey-qbmod",
+            "github_username": "CodeZwei",
+            "short_description": "Adds more oral to the mix!",
+            "long_description": "<h3>What does this mod include?</h3> <p>This mod makes adds more quests and dialog related to Oral Sex.</p>",
+            "version": "0.1.0",
+            "_template": "https://github.com/CodeZwei/cruft-qbmod"
+        }
+    },
+    "directory": null
+}
