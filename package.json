@@ -1,0 +1,24 @@
+{
+  "name": "honey-qbmod",
+  "version": "0.1.0",
+  "description": "Adds more oral to the mix!",
+  "main": "mod/mod.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeZwei/honey-qbmod.git"
+  },
+  "keywords": [
+    "queensbrothel-mod"
+  ],
+  "author": "CodeZwei",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.2"
+  }
+}
