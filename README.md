@@ -16,6 +16,6 @@ None
 
 ## Toolchain
 
-Uses [@brisberg/cruft-qb-mod](https://github.com/brisberg/cruft-qb-mod) as a template for Toolchain configuration.
+Uses [@CodeZwei/cruft-qbmod](https://github.com/CodeZwei/cruft-qbmod) as a template for Toolchain configuration.
 
 See that repo for a list of tools, documentation, and upgrade steps.

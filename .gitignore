@@ -1,0 +1,11 @@
+# Built files
+/dist
+
+# OS Files
+.DS_Store
+
+# Dependencies
+/node_modules
+
+# Design Files
+*.psd
