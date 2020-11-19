@@ -1,6 +1,6 @@
 {
     "template": "https://github.com/CodeZwei/cruft-qbmod",
-    "commit": "2d7ef71c47717853f4e3ff347114ce9e59b950c6",
+    "commit": "9a1fafab742704bc4cae4a706c08ad1ec70e49b1",
     "context": {
         "cookiecutter": {
             "mod_name": "Honey",
